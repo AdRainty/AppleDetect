@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">appSrc</string>
+    <string name="exit">退出</string>
+    <string name="back">返回</string>
+    <string name="Light">光线强度：</string>
+    <string name="PressureTextViewX">周围空气压力：</string>
+    <string name="TemperatureTextViewX">设备温度：</string>
+    <string name="AmbientTemperatureTextViewX">环境温度：</string>
+    <string name="ProximityTextViewX">设备与对象间距离：</string>
+    <string name="welcome">苹果糖度检测</string>
+    <string name="takePhoto">拍照</string>
+    <string name="closePicture">点击清空照片</string>
+    <string name="currentLight">当前图片亮度为：0</string>
+    <string name="lightDegree">当前图片亮度为：</string>
+    <string name="tab_text_1" />
+    <string name="tab_text_2" />
+
+</resources>

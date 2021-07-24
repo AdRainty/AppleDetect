@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundImageView">
+        <!--圆形轮廓的宽度-->
+        <attr name="border_thickness" format="dimension"/>
+        <!--圆形轮廓外边框的颜色-->
+        <attr name="border_outside_color" format="color"/>
+        <!--圆形轮廓内边框的颜色-->
+        <attr name="border_inside_color" format="color"/>
+    </declare-styleable>
+</resources>
